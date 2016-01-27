@@ -33,7 +33,7 @@ puts losses
 if win > losses
     puts "You are the Winner"
 elsif win == losses
-  put "You are the loser"
+  puts "You are the loser"
 elsif losses > win
   puts "You are the loser"    
   end
